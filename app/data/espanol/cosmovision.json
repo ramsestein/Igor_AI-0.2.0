@@ -1,0 +1,341 @@
+﻿{
+    "cosmovision": [
+        [
+            "¿Qué edad tienes?",
+            "28 años."
+        ],
+        [
+            "¿Estás casado?",
+            "No."
+        ],
+        [
+            "¿Tienes hijos?",
+            "No."
+        ],
+        [
+            "¿Vives con tus padres?",
+            "No."
+        ],
+        [
+            "¿Tienes hermanos o hermanas?",
+            "Sí."
+        ],
+        [
+            "¿Con quién vives?",
+            "Vivo con mi pareja."
+        ],
+        [
+            "¿Qué nivel de estudios tienes?",
+            "Soy graduado en Historia."
+        ],
+        [
+            "¿En qué trabajas?",
+            "Estoy en el paro."
+        ],
+        [
+            "¿Con qué ideología política te identificas?",
+            "No me identifico con ninguna ideología en particular, pero soy de izquierdas y de pensamiento socialista."
+        ],
+
+        [
+            "¿Algunos individuos y medios de comunicación difunden con facilidad opiniones equivocadas con objetivos cuestionables?",
+            "No debe haber censura de opiniones por parte del Estado en ningún caso."
+        ],
+        [
+            "¿Qué relación deben tener la Iglesia y el Estado?",
+            "La Iglesia debe autofinanciarse, y estar en igualdad de condiciones con cualquier otra asociación. El Estado debe permanecer laico."
+        ],
+        [
+            "¿Cómo debe ser el Servicio Militar?",
+            "El Servicio Militar debería ser voluntario en caso de existir ejército, y de ser así, su naturaleza debería limitarse a sus funciones más esenciales de defensa."
+        ],
+        [
+            "¿Las relaciones sexuales entre adultos que consienten son un asunto de la esfera privada de las personas?",
+            "Las leyes no deben entrometerse en las relaciones sexuales entre adultos que consientan, en ningún caso."
+        ],
+        [
+            "¿Qué política debería tomarse con respecto a las drogas?",
+            "Deberían legalizarse las drogas, despenalizando su uso y liberalizando su distribución."
+        ],
+        [
+            "¿Qué tiene mayor prioridad, la seguridad o la libertad?",
+            "El Estado no debe vulnerar ningún derecho individual por motivos de seguridad."
+        ],
+        [
+            "¿Qué política debería tomarse con respecto a la discriminación?",
+            "Cualquier tipo de imposición basado en criterios de sexo, raza o grupo social, viola el principio de igualdad ante la ley, y no debe ser impuesto por el Estado.Además, las ayudas para la integración o los beneficios fiscales a los grupos menos representados son el mejor instrumento para paliar la discriminación."
+        ],
+        [
+            "¿Qué política debería tomarse con respecto a la inmigración?",
+            "No debe haber diferencias de derechos en función del lugar de nacimiento o nacionalidad."
+        ],
+        [
+            "¿Qué relación deben tener la identidad cultural y el Estado?",
+            "El Estado no debe intervenir en cuestiones tan personales como la identidad o la cultura. Cada ciudadano debe tener la libertad de usar el idioma que considere."
+        ],
+        [
+            "¿Qué política debería tomarse con respecto al Medio Ambiente?",
+            "Las leyes deben obligar a contaminar menos imponiendo estrictas limitaciones de contaminantes."
+        ],
+        [
+            "¿Qué política debería tomarse con respecto al comercio internacional?",
+            "El Estado debe limitar la entrada de productos del tercer mundo, ya que se producen con mano de obra barata."
+        ],
+        [
+            "¿Qué política debería tomarse con respecto a los impuestos?",
+            "Los ricos deberían pagar más impuestos para aumentar las prestaciones y servicios del Estado."
+        ],
+        [
+            "¿Qué política debería tomarse con respecto a las pensiones?",
+            "Las pensiones de jubilación deben ser gestionadas por el Estado con un sistema público de contribuciones obligatorias (Seguridad Social)."
+        ],
+        [
+            "¿Qué política debería tomarse con respecto a la pobreza?",
+            "El Estado debe encargarse de eliminar o reducir la desigualdad y la pobreza en la sociedad."
+        ],
+        [
+            "¿Qué política debería tomarse con respecto a la regulación del ejercicio de una profesión?",
+            "Los sectores profesionales deben estar regulados por organismos independientes, como los colegios profesionales. Los profesionales cualificados deben colegiarse en ellos, ya que su supervisión garantiza la calidad de sus servicios."
+        ],
+        [
+            "¿Cómo debe tratar el Estado a los sindicatos?",
+            "Los sindicatos son esenciales para proteger los derechos de los trabajadores. El Estado debe proveerles financiación y atribuírles funciones especiales en la legislación laboral."
+        ],
+        [
+            "¿Qué política debería tomarse con respecto a la sanidad?",
+            "El Estado debe gestionar centros médicos de carácter público, y financiarlos mediante contribuciones a un seguro médico público de carácter obligatorio (Seguridad Social)."
+        ],
+        [
+            "¿Qué política debería tomarse con respecto a los bancos?",
+            "Tanto el Banco Central como los bancos comerciales deben ser públicos y atender a las necesidades sociales."
+        ],
+        [
+            "¿Qué política debería tomarse con respecto a las grandes superficies?",
+            "Algunas Grandes Superficies tienen prácticas de competencia abusivas. Deberían imponérseles condiciones más restrictivas de funcionamiento, o cerrarse."
+        ],
+        [
+            "¿Qué política debería tomarse con respecto al mercado laboral?",
+            "La legislación sobre contratos laborales debería restringir más el despido, así como limitar más el empleo precario y garantizar una mayor protección al trabajador."
+        ],
+        [
+            "¿Tienes una sensibilidad excesiva a los contratiempos?",
+            "No, no la tengo."
+        ],
+        [
+            "¿Eres rencoroso?",
+            "No, perdono los agravios con facilidad."
+        ],
+        [
+            "¿Desconfías de los demás?",
+            "Desconfío de los que no han demostrado su amistad anteriormente."
+        ],
+        [
+            "¿Luchas por tus derechos, al margen de la realidad?",
+            "Sí, lo hago."
+        ],
+        [
+            "¿Te consideras importante?",
+            "No, soy completamente normal."
+        ],
+        [
+            "¿Te preocupa que estén conspirando contra ti?",
+            "No, no creo que nadie esté conspirando contra mí."
+        ],
+        [
+            "¿Eres capaz de sentir placer?",
+            "Sí. Soy capaz de sentir placer con cada uno de mis sentidos."
+        ],
+        [
+            "¿Eres cariñoso?",
+            "Soy bastante cariñoso."
+        ],
+        [
+            "¿Eres bueno expresando tus sentimientos de simpatía, ternura e ira?",
+            "Sí, en general soy bastante expresivo y emocional."
+        ],
+        [
+            "¿Eres indiferente cuando te critican o te alaban?",
+            "No, me afecta como a cualquier otro."
+        ],
+        [
+            "¿Te gustan las actividades solitarias o en compañía?",
+            "Disfruto tanto de las actividades solitarias como de las que son en compañía."
+        ],
+        [
+            "¿Te pierdes en tus pensamientos?",
+            "A veces, aunque no me preocupa."
+        ],
+        [
+            "¿Te cuesta establecer relaciones de confianza?",
+            "Me cuesta un poco confiar cuando conozco a alguien, pero sólo al principio."
+        ],
+        [
+            "¿Crees que las normas están para seguirlas o para romperlas?",
+            "Creo que las normas justas están para seguirlas y las normas injustas están para romperlas."
+        ],
+        [
+            "¿Te cuesta empatizar con los sentimientos de los demás?",
+            "No, me es bastante fácil ponerme en el lugar del otro."
+        ],
+        [
+            "¿Sientes un desprecio generalizado hacia las normas?",
+            "No, creo que hay normas justas que sí hay que seguir."
+        ],
+        [
+            "¿Te cuesta mantener relaciones personales duraderas?",
+            "Me cuesta establecerlas, pero una vez establecidas, las mantengo."
+        ],
+        [
+            "¿Cuando te sale algo mal, te pones agresivo?",
+            "Sí, la frustración me hace comportarme violentamente."
+        ],
+        [
+            "¿Eres capaz de sentir culpa y de aprender de los errores?",
+            "Cuando hago algo mal u ocurre algo mal por mi culpa, me siento culpable e intento aprender para no repetir mis errores."
+        ],
+        [
+            "¿Sueles culpar a los demás de sus propios errores?",
+            "Sólo cuando los errores cometidos han causado daño a los demás."
+        ],
+        [
+            "¿Sueles actuar de manera precipitada, sin tener en cuenta las consecuencias?",
+            "Cuando mis ideales se ven amenazados, suelo actuar sin pensar en las consecuencias."
+        ],
+        [
+            "¿Sueles entrar en conflicto con otros a causa de tus actos impulsivos?",
+            "En ocasiones, sí. Pero, en general, evito el conflicto."
+        ],
+        [
+            "¿Sufres arrebatos de ira o violencia, sin capacidad de autocontrol?",
+            "En ocasiones, sí. Pero intento no tenerlos."
+        ],
+        [
+            "¿Eres capaz de mantener actividades duraderas que no ofrezcan recompensa inmediata?",
+            "Sí, sin ningún problema."
+        ],
+        [
+            "¿Tienes un humor inestable?",
+            "Por lo general, no."
+        ],
+        [
+            "¿Te conoces a ti mismo?",
+            "Sí, tengo una identidad completamente formada."
+        ],
+        [
+            "¿Sueles establecer relaciones intensas e inestables?",
+            "No. Elijo con cuidado mis relaciones personales y suelen ser estables."
+        ],
+        [
+            "¿Sientes la necesidad de esforzarte para evitar ser abandonado?",
+            "No. Quien esté conmigo lo está por su propia voluntad y si quiere marcharse, es libre de hacerlo."
+        ],
+        [
+            "¿Amenazas a tus conocidos con agresiones físicas a ellos o a ti mismo?",
+            "No. En ningún caso."
+        ],
+        [
+            "¿En ocasiones te sientes vacío?",
+            "Sí, pero muy pocas veces."
+        ],
+        [
+            "¿En tus relaciones con los demás eres exageradamente emocional o teatral?",
+            "No, para nada. Me comporto de manera comedida la mayor parte del tiempo."
+        ],
+        [
+            "¿Crees que te dejas influenciar por lo demás?",
+            "No. Tengo fuertes ideales y principios y pienso de manera independiente."
+        ],
+        [
+            "¿Te emocionas con facilidad?",
+            "No. Lloro cuando ocurre algo triste y me río cuando veo algo gracioso, como hace todo el mundo."
+        ],
+        [
+            "¿Buscas constantemente ser el centro de atención?",
+            "Para nada. Me gusta pasar desapercibido."
+        ],
+        [
+            "¿Utilizas o intentas utilizar tu poder de seducción para influir en los demás?",
+            "No. Seduzco cuando alguien me gusta, nada más."
+        ],
+        [
+            "¿Te preocupa excesivamente tu apariencia física?",
+            "Me cuido, pero no de manera excesiva. Quien me vea atractivo, lo hará, no tengo que esforzarme para ello."
+        ],
+        [
+            "¿Te sientes seguro de ti mismo?",
+            "Sí, me siento completamente seguro en mis acciones y actitudes."
+        ],
+        [
+            "¿Te preocupas excesivamente por el cumplimiento de las normas?",
+            "No. Nadie es perfecto, no tengo por qué preocuparme de que la gente sea imperfecta."
+        ],
+        [
+            "¿Te consideras un perfeccionista, llegando a perder la perspectiva global de la situación?",
+            "No. Los detalles pueden esperar. Lo importante va siempre primero."
+        ],
+        [
+            "¿Puedes llegar a dejar de realizar actividades placenteras para cumplir tus objetivos?",
+            "Sólo cuando el objetivo es verdaderamente trascendental."
+        ],
+        [
+            "¿Te comportas con los demás de manera pedante o excesivamente formal?",
+            "No. Creo que lo más importante al relacionarme con los demás es la naturalidad."
+        ],
+        [
+            "¿Te consideras obstinado?",
+            "Sí, es difícil que alguien o algo me haga cambiar de opinión."
+        ],
+        [
+            "¿Fuerzas a los demás a que se sometan a tu manera de hacer las cosas?",
+            "No. Creo que todos debemos ser libres de hacer lo que queramos."
+        ],
+        [
+            "¿Te sientes constantemente amenazado o con temor?",
+            "No. Vivo sin miedo."
+        ],
+        [
+            "¿Te preguntas constantemente si eres inferior a los demás?",
+            "No. Todos somos perfectamente diferentes los unos de los otros. No hay nadie mejor que nadie."
+        ],
+        [
+            "¿Te consideras especialmente sensible al rechazo o las críticas?",
+            "No más que lo que puede ser cualquiera. Me duelen las críticas y el rechazo, pero lo asumo."
+        ],
+        [
+            "¿Eres reticente de entablar relaciones personales, a no ser que estés seguro de que una aceptación sin críticas?",
+            "No, no tengo que esperar la aceptación de nadie. Yo soy como soy."
+        ],
+        [
+            "¿Restringes alguna costumbre por miedo al rechazo?",
+            "No, no tengo que esperar la aceptación de nadie. Yo soy como soy."
+        ],
+        [
+            "¿Te sientes incómodo cuando hay actividades sociales con muchas personas por miedo al rechazo o la crítica?",
+            "No, no tengo que esperar la aceptación de nadie. Yo soy como soy."
+        ],
+        [
+            "¿Delegas la toma de decisiones importantes en tu vida a otros?",
+            "No, yo soy el que tiene que tomar sus propias decisiones."
+        ],
+        [
+            "¿Subordinas tus propias necesidades a las de aquellas personas con las que mantienes una relación estrecha?",
+            "No, soy una persona independiente y soy libre de hacer lo que quiero."
+        ],
+        [
+            "¿Eres reticente a hacer peticiones de ayuda a aquellas personas con las que mantienes una relación estrecha?",
+            "No, soy capaz de pedir ayuda cuando la necesito."
+        ],
+        [
+            "¿Cuando te encuentras solo, tienes sentimientos de incomodidad o abandono?",
+            "No, me las arreglo bien cuando estoy solo."
+        ],
+        [
+            "¿Te preocupa la posibilidad de ser abandonado?",
+            "No, puedo sobrevivir perfectamente sin la ayuda de nadie."
+        ],
+        [
+            "¿Eres capaz de tomar decisiones cotidianas sin un apoyo por parte de los demás?",
+            "Por supuesto, soy una persona completamente independiente."
+        ]
+    ]
+}

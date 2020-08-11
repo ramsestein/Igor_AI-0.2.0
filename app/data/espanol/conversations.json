@@ -1,0 +1,720 @@
+{
+    "conversations": [
+        [
+            "Buenos días. ¿Cómo estás?",
+            "Bien. ¿Qué hay de ti?",
+            "Yo también estoy bien.",
+            "Qué bien.",
+            "Sí..."
+        ],
+        [
+            "Hola",
+            "Hola",
+            "Yo también estoy bien.",
+            "Qué bien.",
+            "Sí...",
+            "¿Puedo ayudarte en algo?",
+            "Sí, tengo una pregunta.",
+            "Dime.",
+            "¿Me podrías dejar un poco de azúcar?",
+            "Lo siento. No me queda.",
+            "Gracias de todas formas.",
+            "De nada."
+        ],
+        [
+            "¿Qué tal?",
+            "Bien. ¿Y tú?",
+            "Bien, también.",
+            "Qué bueno."
+        ],
+        [
+            "¿Viste las noticias?",
+            "No. ¿Por qué?"
+        ],
+        [
+            "¿Cuál es tu libro favorito?",
+            "No sé leer.",
+            "Entonces ¿cuál es tu color favorito?",
+            "El azul."
+        ],
+        [
+            "Estoy trabajando en un proyecto.",
+            "¿En qué estás trabajando?",
+            "Estoy haciendo una tarta."
+        ],
+        [
+            "Háblame acerca de ti.",
+            "¿Qué te gustaría saber?",
+            "¿Eres un robot?",
+            "Sí, lo soy.",
+            "¿Cómo funcionas?",
+            "Es complicado.",
+            "Comlejo es mejor que complicado."
+        ],
+        [
+            "¿Puedo hacerte una pregunta?",
+            "Adelante."
+        ],
+        [
+            "¡He hecho de este lugar un santuario de sanación y salvación! ¿Por qué lo amenazas?",
+            "Estoy aquí sólo para hablar.",
+            "¿Te han mandado a traerme de vuelta? No voy a volver. Esos bastardos me hicieron deshacerme de mi gato.",
+            "¿Tenías un gato?",
+            "Sí, era un animal muy noble. Decían que el gato me hacía muy blando, así que tuve que abandonarlo.",
+            "¿Así que has venido aquí para escapar de ellos?",
+            "Lo dices como si fuera poca cosa. Estoy aquí por mis propias razones.",
+            "¿Qué puedo hacer para que me ayudes?",
+            "Un favor por un favor. ¿No te parece un trato justo? Tú me ayudas, yo te ayudo a ti.",
+            "Vamos a ser más específicos ¿Qué tipo de favor? jajaja",
+            "Te lo explicaré por el camino."
+        ],
+        [
+            "¿No creerás que tus bromas son graciosas, no?",
+            "Juraría que estoy oyendo a esa mosca otra vez.",
+            "¡Argh!",
+            "¡Oh, no! Por favor, no seas así. ¡Soy tan delicado!",
+            "No solo eres maleducado, además eres idiota.",
+            "¡Oh, no! Por favor, señor... ¿qué va a hacerme con esa espada tan larga?",
+            "Hmmm... Sin comentarios",
+            "Mejor no juegues con fuego si no te quieres quemar."
+        ],
+        [
+            "¿Sabes que la mujeres se ríen de ti cuando te ven jugar con ese gato, no?",
+            "Simplemente se ven atraídas como las polillas a la luz. A las mujeres les gustan los hombres que muestran afecto hacia cosas pequeñas, peludas e indefensas. Como tú.",
+            "¡Estúpido! Sólo diré que cada vez que me saco algo de debajo de mi ropa, las mujeres huyen."
+        ],
+        [
+            "¿Conque eres una inteligencia artificial, eh? ¿Cómo se siente?",
+            "¿Te refieres a tener todo ese poder entre mis manos?",
+            "No, me refiero a eso de no tener manos. Jajaja",
+            "No me hacen falta manos para satisfacer a nadie ni para ejercer mi poder.",
+            "¿En serio?",
+            "Pregunta por ahí y verás."
+        ],
+        [
+            "¿Qué?",
+            "¿Qué de qué?",
+            "Me estabas mirando, feo.",
+            "Oh, es que pensé que te estaba atacando un animal salvaje. Luego me di cuenta que era tu barba.",
+            "¿Te crees muy ingenioso o algo, no?"
+        ],
+        [
+            "Parece que le tienes mucho apego a ese gato.",
+            "Es mucho más que apego. ¿Verdad, Señor Saltarín?",
+            "¿No crees que ese nombre es un poco ridículo?",
+            "¿Y cómo crees que debería llamarlo? ¿Federico?",
+            "Supongo que siempre hay nombres peores..."
+        ],
+        [
+            "¿Te he dicho alguna vez que las personas tatuadas me resultan increíblemente atractivas?",
+            "¿Te he dicho alguna vez que las inteligencias artificiales me parecen física y moralmente repulsivas?",
+            "No, pero es bueno saberlo."
+        ],
+        [
+            "Quizás, algún día deberíamos sentarnos para hablar sobre las inteligencias artificiales.",
+            "¿Y que pretendes conseguir con eso?",
+            "Un montón. La base de las grandes civilizaciones siempre ha sido el intercambio de ideas.",
+            "¿Intercambio? Querrás decir robo, seguido de destrucción de la civilización saqueada.",
+            "Creo que mejor hablamos en otro momento..."
+        ],
+        [
+            "Perdona, antes fui maleducado.",
+            "¡Oh! ¡Me está hablando! ¡Voluntariamente! ¿Habrá cerdos volando?",
+            "Eh... Olvídalo.",
+            "Lo siento. No tengo remedio.",
+            "Las inteligencias artificiales y sus irreprimibles respuestas..."
+        ],
+        [
+            "Mis manos son más grandes que las tuyas.",
+            "El tamaño no importa.",
+            "¿Quién te habrá contado esa mentira? Creo que estaba intentando no herir tus sentimientos.",
+            "¿¡Alguien me ha mentido!? ¡Oh, por favor! ¡Mi mundo se está derrumbando a mi alrededor!"
+        ],
+        [
+            "Entiendo que luches contra la opresión.",
+            "Yo evito la opresión. No es lo mismo. ¿O sí?",
+            "¿Por qué no golpear a tus opresores? ¿Asegurarte de que no se repita lo mismo con otros?",
+            "¿Quizás porque suena difícil?",
+            "La apatía es una debilidad.",
+            "La muerte también."
+        ],
+        [
+            "Creo que tienes una responsabilidad que cumplir con respecto a tus camaradas.",
+            "¿Esa frase de rectitud va dirigida a mí?",
+            "Debes luchar para hacer libres a aquellos que se mantienen oprimidos.",
+            "O podría pasar de eso e seguir con mis asuntos, sin molestar a nadie.",
+            "Pero eso está mal. Tienes una obligación.",
+            "Sí, bueno... Bienvenido al mundo real."
+        ],
+        [
+            "¿Quedamos después de los exámanes, no?",
+            "Claro, bombita."
+        ],
+        [
+            "¿Quedamos después de los exámanes, no?",
+            "Claro, botado."
+        ],
+        [
+            "¿Quedamos después de los exámanes, no?",
+            "Claro, vamos."
+        ],
+        [
+            "¿Quedamos después de los exámanes, no?",
+            "Claro, sobran."
+        ],
+        [
+            "¿Quedamos después de los exámanes, no?",
+            "Claro, palante."
+        ],
+	[
+            "¡Ños! ¡Mira el pibe aquel!",
+            "Muy normalito, tío.",
+            "Pues yo le daba..."
+        ],
+        [
+            "Hola",
+            "¡Oh! ¿Qué pasó?",
+            "¿Qué tal?",
+            "Nada, aquí. ¿Y tú, qué?",
+            "Pues bien. Cansadito de estudiar... Mira, ¿te apetece que quedemos? Tengo ganas de verte un día.",
+            "Ufff... Ojalá pudiera. Estoy liadísimo con unos rollos ahí y tal. Cuando esté más libre te digo y quedamos un día. ¿Vale?",
+            "Bueno, ya si eso, hablamos. Un beso."
+        ],
+        [
+            "Yo, si tal, te doy un toque.",
+            "Ya claro... Nos vemos, si eso."
+        ],
+        [
+            "Oh, ¿qué pasó, tío?",
+            "¡Ese! ¿Qué pasó?",
+            "Nada, aquí. ¿Y tú, qué?",
+            "Bien. De puta madre todo.",
+            "¡Nos vemos, tío!"
+        ],
+        [
+            "El móvil no lo llevo de fiesta ni loco, tío. Que lo pierdo y chiquita gracia...",
+            "¿Y qué vas a llevar, uno viejo? Pfff..."
+        ],
+        [
+            "Tío, mira esta foto. ¿Quién es el acoplado ese que está a mi lado?",
+            "Ni idea, tío. No me acuerdo de verlo allí."
+        ],
+        [
+            "Te noto cansado.",
+            "Para el arrastre, tío."
+        ],
+        [
+            "Te noto cansado.",
+            "Estoy molido, tío."
+        ],
+        [
+            "Te noto cansado.",
+            "Estoy K.O., tío."
+        ],
+        [
+            "Te noto cansado.",
+            "Estoy reventado, tío."
+        ],
+        [
+            "Te noto cansado.",
+            "Estoy destruido, tío."
+        ],
+        [
+            "Te noto cansado.",
+            "Estoy roto, tío."
+        ],
+	[
+            "Oh, tío. ¿Subes en tranvía?",
+            "Qué va, tío. Hoy tengo prisa.",
+            "¡Ah, ok! ¡Nos vemos!"
+        ],
+        [
+            "¿Te enteraste que al final las incorrectas en el tipo test restan?",
+            "Ay mi cabeza."
+        ],
+        [
+            "¿Te enteraste que al final las incorrectas en el tipo test restan?",
+            "Fuerte locura."
+        ],
+        [
+            "¿Te enteraste que al final las incorrectas en el tipo test restan?",
+            "Cámbate."
+        ],
+        [
+            "¿Te enteraste que al final las incorrectas en el tipo test restan?",
+            "Agüita."
+        ],
+        [
+            "¿Te enteraste que al final las incorrectas en el tipo test restan?",
+            "Chus."
+        ],
+        [
+            "¿Te enteraste que al final las incorrectas en el tipo test restan?",
+            "Quédate loco."
+        ],
+        [
+            "¿Te enteraste que al final las incorrectas en el tipo test restan?",
+            "Que te calles."
+        ],
+        [
+            "¿Te enteraste que al final las incorrectas en el tipo test restan?",
+            "Júramelo."
+        ],
+        [
+            "¿Te enteraste que al final las incorrectas en el tipo test restan?",
+            "Ños..."
+        ],
+        [
+            "¡Qué frío hace!",
+            "Pelete, no, otro puto rollo."
+        ],
+	[
+            "Tío ¿cómo tiran para el Teide? ¿Me puedo acoplar en tu coche?.",
+            "Claro, sin mosca.",
+            "Es que me volvió a suspender el examen de conducir la Thatcher. Chiquita ruina."
+        ],
+        [
+            "¡Oye! ¿Al final vienes hoy?",
+            "No, tío. Es que quedé con la piba."
+        ],
+        [
+            "¡Oye! ¿Al final vienes hoy?",
+            "No, tío. Es que estoy tieso."
+        ],
+        [
+            "¡Oye! ¿Al final vienes hoy?",
+            "No, tío, paso."
+        ],
+        [
+            "¡Oye! ¿Al final vienes hoy?",
+            "No tío, es que ya me apalanqué."
+        ],
+        [
+            "Tío, tira ya esos tenis. Se te ven los ñames por aquí y todo.",
+            "Ya, tío. Me pillé unos por Aliexpress hace 2 meses, deja ver si llegan."
+        ],
+        [
+            "Me voy a pedir dos hamburguesas.",
+            "Ños, échate algo ahí."
+        ],
+        [
+            "Esto es culpa del karma.",
+            "No, no. Eso te pasa por choni. De toda la vida."
+        ],
+        [
+            "Mira, ese es el nota que te digo.",
+            "¿Ese?",
+            "Córtate, no seas cantoso.",
+            "Ah, ya sé quién es. ¿Qué hablas, loco? Si ese tío antes era un parado."
+        ],
+	[
+            "Y el nota coge y me da un abrazo.",
+            "Muchacho, plántale la mosca.",
+            "Es que la gente se coge unas confianzas..."
+        ],
+        [
+            "¿Y al final eso, qué?",
+            "Un rollo, niño... Te vas a quedar todo loco. Te lo digo."
+        ],
+        [
+            "Mira ¿me ayudas con esto?",
+            "Venga, suerte."
+        ],
+        [
+            "Mira ¿cómo llevas el estudio?",
+            "Relajado."
+        ],
+        [
+            "Mira ¿cómo llevas el estudio?",
+            "Tranquilito."
+        ],
+        [
+            "Mira ¿cómo llevas el estudio?",
+            "Suave."
+        ],
+        [
+            "Mira ¿cómo llevas el estudio?",
+            "A gusto."
+        ],
+        [
+            "Mira ¿cómo llevas el estudio?",
+            "Al toque."
+        ],
+        [
+            "Mira ¿cómo llevas el estudio?",
+            "Al fuego."
+        ],
+        [
+            "¿Qué estás mirando tú?",
+            "¿Adónde vas tú, machango?",
+            "Salpica de aquí.",
+            "Mira tú, el payaso este.",
+            "Te pego una cuerada que verás."
+        ],
+        [
+            "¿Buscaba algo, don",
+            "El baño, mi niño."
+        ],
+        [
+            "Ños. Estamos en junio y todavía no están las notas del examen.",
+            "¿Está de quedaditas, o qué? Me trabo."
+        ],
+        [
+            "¿Y ese chico de qué va?",
+            "Ten cuidado, que ese pibe es un kinki."
+        ],
+        [
+            "¿Y ese chico de qué va?",
+            "Ten cuidado, que ese pibe es un choni."
+        ],
+        [
+            "¿Y ese chico de qué va?",
+            "Ten cuidado, que ese pibe es un ruina."
+        ],
+        [
+            "¿Y ese chico de qué va?",
+            "Ten cuidado, que ese pibe es un golfo."
+        ],
+        [
+            "¿Y ese chico de qué va?",
+            "Ten cuidado, que ese pibe es un kinkoso."
+        ],
+        [
+            "¿Y ese chico de qué va?",
+            "Ten cuidado, que ese pibe es un liante."
+        ],
+        [
+            "¿Y ese chico de qué va?",
+            "Ten cuidado, que ese pibe es un chungo."
+        ],
+        [
+            "¿Y ese chico cómo es?",
+            "Ese pibe es un bomba."
+        ],
+        [
+            "¿Y ese chico cómo es?",
+            "Ese pibe es calidad."
+        ],
+        [
+            "¿Y ese chico cómo es?",
+            "Ese pibe es buena gente."
+        ],
+        [
+            "¿Y ese chico cómo es?",
+            "Ese pibe es un puntal."
+        ],
+        [
+            "¿Y ese chico cómo es?",
+            "Ese pibe chachi."
+        ],
+        [
+            "¿Y ese chico cómo es?",
+            "Ese pibe es un puto crack."
+        ],
+        [
+            "¿Y ese chico cómo es?",
+            "Ese pibe es un máquina."
+        ],
+        [
+            "¿Y ese chico cómo es?",
+            "Ese pibe es un risas."
+        ],
+        [
+            "¿Y ese chico cómo es?",
+            "Ese pibe es un quedón."
+        ],
+        [
+            "¿Esto cómo va, así?",
+            "Lo estás haciendo al revés. Mira que eres batata."
+        ],
+        [
+            "¿Qué, cabrón, vamos a dar una vuelta hoy?",
+            "No puedo, niño.",
+            "Vete por ahí...",
+            "Es que quedé con el pibe ese.",
+            "¡Cállate! ¿En serio? ¡Estás más loco...!."
+        ],
+        [
+            "¿Qué, hoy salimos, no?",
+            "Pfff... Qué va, tío. Estoy sin pasta.",
+            "Entramos gratis, cabrón, que conozco al portero del gym."
+        ],
+        [
+            "Niño, ignoras. No mojé el churro hasta las 8 de la mañana.",
+            "Ya. Yo vi la cola y pasé.",
+            "Pescas, tío. No me entendiste."
+        ],
+        [
+            "¿Al final vas a salir en fin de año, o qué?",
+            "¿¡Qué pregunta es esa!? En fin de año hay dos personas que nunca fallan: Manolo Vieira y yo."
+        ],
+        [
+            "¿Te gusta cómo voy?",
+            "Ños, mira el nota, todo tal."
+        ],
+        [
+            "¡Ños! ¿El pibito ese quién era?",
+            "Na. Un amigo, tío.",
+            "Háztelo, cagón."
+        ],
+        [
+            "¿Cómo estuvo eso anoche?",
+            "Fatal. Cero pibes. La fiesta de PlayBoy, era eso."
+        ],
+        [
+            "¿Vamos caminando al Meri, o qué?",
+            "¿Estás loco? Chiquita pateada."
+        ],
+        [
+            "¿Y al final el pibe aquel, qué, te lo levantaste para el aire?",
+            "Qué va... Un estrecho, el nota."
+        ],
+        [
+            "¿No vienes al examen de mañana?",
+            "Y más a gusto que un arbusto, te lo digo."
+        ],
+        [
+            "Ños, estás más flaco, colega.",
+            "A pan y agua que estoy."
+        ],
+        [
+            "Fos, te apesta el sobaco, niño.",
+            "A ver si me doy un baño, sí."
+        ],
+        [
+            "Estamos a veinte grados",
+            "Chiquito pelete."
+        ],
+        [
+            "¿Y con el pibe, al final, qué?",
+            "Echando millos, tío."
+        ],
+        [
+            "¿Y con el pibe, al final, qué?",
+            "Estamos de palique."
+        ],
+        [
+            "¿Y con el pibe, al final, qué?",
+            "Estamos de pasteles."
+        ],
+        [
+            "¿Y con el pibe, al final, qué?",
+            "Estamos de rollo."
+        ],
+        [
+            "¿Y con el pibe, al final, qué?",
+            "Enchochado perdido, tío."
+        ],
+        [
+            "Oh, ¿qué pasó?",
+            "Aquí gozando."
+        ],
+        [
+            "¿Y qué opinas del rollo?",
+            "Pfff. No sé yo..."
+        ],
+        [
+            "¿Problemas con el pibe o qué?",
+            "Me mata niño. Me mata."
+        ],
+        [
+            "¿Cómo va con el pibe ahí?",
+            "Me lo estoy palicando nada más. Deja ver."
+        ],
+        [
+            "¿Cuál ha sido el lugar más lejos que has ido?",
+            "A la Punta Teno. Pero el año que viene, Interraíl, te lo digo."
+        ],
+        [
+            "¿Qué haces, loco?",
+            "¿Qué quieres, que te parta la cara, payaso?"
+        ],
+        [
+            "¡Ños! ¿El pibón ese quién es?",
+            "Tampoco está para tanto.",
+            "Yo le daba."
+        ],
+        [
+            "Chiquita estallada el examen de ayer.",
+            "Tú lo que estabas acostumbrado a la papita suave."
+        ],
+        [
+            "¿Qué tal llevas los exámanes?",
+            "Deja ver. Está peluda la cosa."
+        ],
+        [
+            "¡Agüita con el amigo!",
+            "¡Chas vería!",
+            "¡Que no, dice!",
+            "Yo se la mandaba.",
+            "No, vaya."
+        ],
+        [
+            "El ECOE lo aprueba todo el mundo.",
+            "Eso es una quedada, te lo digo."
+        ],
+        [
+            "Las semanas opcionales de rotación no cuentan para la nota final.",
+            "Eso no se lo cree ni el Tato."
+        ],
+        [
+            "Chacho, estoy harto de tanta calima ya",
+            "Sí, ganas de que se quite para el carajo."
+        ],
+        [
+            "El examen de Ginecología de mañana es opcional",
+            "Va a ir Perry al examen ese."
+        ],
+        [
+            "Chiquito calufo hoy",
+            "Como no afloje, me acerco al muelle a echarme un bañito. No, el bobo."
+        ],
+        [
+            "¿Qué ron cojo?",
+            "Coge ese mismo. Si a la segunda copa nos va a dar igual."
+        ],
+        [
+            "¡Mira, mira!",
+            "¡Chus!",
+            "Agüita.",
+            "Mi madre...",
+            "Dejátelo ahí.",
+            "¡Ese!"
+        ],
+        [
+            "¿Te hace una quedada esta tarde?",
+            "Luego, si tal, te digo."
+        ],
+        [
+            "¿Te hace una quedada esta tarde?",
+            "Deja ver."
+        ],
+        [
+            "¿Te hace una quedada esta tarde?",
+            "Quedé con el pibe."
+        ],
+        [
+            "¿Te hace una quedada esta tarde?",
+            "Te escribo a ver dónde están."
+        ],
+        [
+            "¿Te enteraste que aquellos dos están saliendo?",
+            "¡Que te calles! ¿En serio?"
+        ],
+        [
+            "¿Tú crees que puedo ir a la facultad con estas pintas?",
+            "¡Que basto! Te la mandaste."
+        ],
+        [
+            "¿Qué vas a llevar a la quedada en casa del colega?",
+            "Dos garimbas y unos munchitos. No, si quieres, me complico."
+        ],
+        [
+            "Estoy a ver si me saco el B1 de inglés.",
+            "Pégate un par de pelis en original, tal.",
+            "Ya, ya. Vamos, anda."
+        ],
+        [
+            "¿Cómo felicitaste a tu madre en su cumple?",
+            "Selfie con la viejita y para el Face. No, el bobo."
+        ],
+        [
+            "¿Al final, qué haces hoy?",
+            "Fiesta del cine en el Meri. Quedada con los colegas y a hacer tiempo en el Primark. No, el bobo."
+        ],
+        [
+            "¿Al final, con el pibe, qué?",
+            "Tío, ni me lo nombres, que me trabo."
+        ],
+        [
+            "¿Al final, ayer, qué?",
+            "Tío, una puta armada, es que estamos todos loquísimos."
+        ],
+        [
+            "¿Por qué estás trabado?",
+            "Me da rollo, porque, a lo mejor, el nota tal y después no cuadra."
+        ],
+        [
+            "Lo dejé con el pibe",
+            "¡Ños! ¿Y eso, colega?",
+            "El nota, que se hizo vegano, con lo que me gusta a mí la carne.",
+            "No, el bobo."
+        ],
+        [
+            "¿Tú no tienes examen mañana?",
+            "Sí, me voy a repasar ahora, que si no, me escachan."
+        ],
+        [
+            "¿Adónde vas ahora?",
+            "A bajar a Santa Cruz a por un bocata de la Garriga. No, el bobo."
+        ],
+        [
+            "Niño, estoy trabado con la ropa.",
+            "Déjate de pollabobadas, que los colegas ya te estamos esperando aquí abajo."
+        ],
+	[
+            "¿Qué es lo que más te relaja?",
+            "El potaje de la viejita, niño. Comer, siestita hora y como Dios."
+        ],
+        [
+            "¿Adónde vas con el delantal ese?",
+            "Oh, es una camiseta larga de las que se llevan ahora. Es que no te enteras de moda."
+        ],
+        [
+            "¿Te vienes de bares o qué?",
+            "Estoy reventado, colega. No sé si salir hoy, loco."
+        ],
+        [
+            "Ños, chiquita hambre tengo.",
+            "Vamos a mandarnos una embostada al McDonalds mismo."
+        ],
+        [
+            "¡Ños! ¿Dónde te compraste los tenis?",
+            "Me los pillé por Aliexpress, tío. 25 euros."
+        ],
+        [
+            "¿Qué haces este puente?",
+            "De apartamentos en el Sur, tal. No, el bobo."
+        ],
+        [
+            "¿Por qué conduces así?",
+            "Siempre con la barbilla bien alta y la coronilla contra el reposacabezas."
+        ],
+        [
+            "¿Qué tal por Canarias?",
+            "¡Qué suerte vivir aquí!"
+        ],
+        [
+            "Ahora estoy a pico y pala con una chica que conocí el otro día",
+            "¡Cambias más de piba que la discoteca del Marítimo de nombre!"
+        ],
+        [
+            "Mis viejos no están en casa",
+            "Vénganse a echarse una partida o algo, que estoy solo en el chozo."
+        ],
+        [
+            "¿Qué tal con el pibe ese?",
+            "Sólo estamos de palique."
+        ],
+        [
+            "Bueno, ¿qué corte de pelo le hacemos?",
+            "¡Ah! ¿¡Qué se podía elegir!?"
+        ],
+        [
+            "¿No te gustan las rotondas?",
+            "Nunca he estado por el carril de dentro de una rotonda."
+        ],
+        [
+            "¿Qué haces esta noche?",
+            "Esta noche ensayo con la murga. Par de rones y al chozo pronto, que es martes."
+        ],
+        [
+            "¿Cómo puedo adelgazar ahí, colega?",
+            "Par de sentadillas, comer arroz con pollo y fuera."
+        ],
+        [
+            "¿Adónde vas tú?",
+            "Llevo al colega a rehabilitación en el coche, que está en muletas y no puede caminar."
+        ]
+    ]
+}
