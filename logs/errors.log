@@ -1,0 +1,245 @@
+[Mon Jun 20 12:23:48.069656 2016] [authz_core:error] [pid 20664:tid 140527202711296] [client 127.0.0.1:59742] AH01630: client denied by server configuration: /home/ramses/Escritorio/DIY/Igor_AI-0.2.0/controller.py
+[Mon Jun 20 12:23:48.205672 2016] [authz_core:error] [pid 20664:tid 140527152355072] [client 127.0.0.1:59742] AH01630: client denied by server configuration: /home/ramses/Escritorio/DIY/Igor_AI-0.2.0/controller.py
+[Mon Jun 20 12:23:48.221570 2016] [authz_core:error] [pid 20664:tid 140527143962368] [client 127.0.0.1:59742] AH01630: client denied by server configuration: /home/ramses/Escritorio/DIY/Igor_AI-0.2.0/controller.py
+[Mon Jun 20 12:24:01.611438 2016] [authz_core:error] [pid 20664:tid 140527135569664] [client 127.0.0.1:59743] AH01630: client denied by server configuration: /home/ramses/Escritorio/DIY/Igor_AI-0.2.0/controller.py
+[Mon Jun 20 12:24:45.698442 2016] [authz_core:error] [pid 20664:tid 140527127176960] [client 127.0.0.1:59744] AH01630: client denied by server configuration: /home/ramses/Escritorio/DIY/Igor_AI-0.2.0/controller.py
+[Mon Jun 20 12:27:21.783569 2016] [authz_core:error] [pid 20664:tid 140527118784256] [client 127.0.0.1:59755] AH01630: client denied by server configuration: /home/ramses/Escritorio/DIY/Igor_AI-0.2.0/controller.py
+[Mon Jun 20 12:29:38.998164 2016] [authz_core:error] [pid 20664:tid 140527110391552] [client 127.0.0.1:59795] AH01630: client denied by server configuration: /home/ramses/Escritorio/DIY/Igor_AI-0.2.0/controller.py
+[Mon Jun 20 12:29:39.937636 2016] [authz_core:error] [pid 20664:tid 140527101998848] [client 127.0.0.1:59795] AH01630: client denied by server configuration: /home/ramses/Escritorio/DIY/Igor_AI-0.2.0/controller.py
+[Mon Jun 20 12:31:24.015799 2016] [authz_core:error] [pid 20924:tid 140267726305024] [client 127.0.0.1:59798] AH01630: client denied by server configuration: /home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py
+[Mon Jun 20 12:31:24.837985 2016] [authz_core:error] [pid 20924:tid 140267717912320] [client 127.0.0.1:59798] AH01630: client denied by server configuration: /home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py
+[Mon Jun 20 12:31:25.571965 2016] [authz_core:error] [pid 20924:tid 140267709519616] [client 127.0.0.1:59798] AH01630: client denied by server configuration: /home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py
+[Mon Jun 20 12:31:26.576297 2016] [authz_core:error] [pid 20924:tid 140267701126912] [client 127.0.0.1:59798] AH01630: client denied by server configuration: /home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py
+[Mon Jun 20 17:14:24.238663 2016] [:error] [pid 24891:tid 139849763907328] [client 127.0.0.1:60871] mod_wsgi (pid=24891): Exception occurred processing WSGI script '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Mon Jun 20 17:14:24.238714 2016] [:error] [pid 24891:tid 139849763907328] [client 127.0.0.1:60871] Traceback (most recent call last):
+[Mon Jun 20 17:14:24.238727 2016] [:error] [pid 24891:tid 139849763907328] [client 127.0.0.1:60871]   File "/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py", line 5, in application
+[Mon Jun 20 17:14:24.238762 2016] [:error] [pid 24891:tid 139849763907328] [client 127.0.0.1:60871]     file = open("www/index.html","r")
+[Mon Jun 20 17:14:24.238778 2016] [:error] [pid 24891:tid 139849763907328] [client 127.0.0.1:60871] IOError: [Errno 2] No such file or directory: 'www/index.html'
+[Mon Jun 20 17:18:04.343790 2016] [:error] [pid 25130:tid 140362256094976] [client 127.0.0.1:60876] mod_wsgi (pid=25130): Exception occurred processing WSGI script '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Mon Jun 20 17:18:04.343898 2016] [:error] [pid 25130:tid 140362256094976] [client 127.0.0.1:60876] Traceback (most recent call last):
+[Mon Jun 20 17:18:04.343927 2016] [:error] [pid 25130:tid 140362256094976] [client 127.0.0.1:60876]   File "/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py", line 5, in application
+[Mon Jun 20 17:18:04.344007 2016] [:error] [pid 25130:tid 140362256094976] [client 127.0.0.1:60876]     file = open("www/index.html","r")
+[Mon Jun 20 17:18:04.344052 2016] [:error] [pid 25130:tid 140362256094976] [client 127.0.0.1:60876] IOError: [Errno 2] No such file or directory: 'www/index.html'
+[Mon Jun 20 17:51:11.171274 2016] [:error] [pid 25270:tid 140530086979328] [client 127.0.0.1:60897] mod_wsgi (pid=25270): Exception occurred processing WSGI script '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Mon Jun 20 17:51:11.171350 2016] [:error] [pid 25270:tid 140530086979328] [client 127.0.0.1:60897] Traceback (most recent call last):
+[Mon Jun 20 17:51:11.171369 2016] [:error] [pid 25270:tid 140530086979328] [client 127.0.0.1:60897]   File "/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py", line 5, in application
+[Mon Jun 20 17:51:11.171421 2016] [:error] [pid 25270:tid 140530086979328] [client 127.0.0.1:60897]     file = open("www/index.html","x")
+[Mon Jun 20 17:51:11.171440 2016] [:error] [pid 25270:tid 140530086979328] [client 127.0.0.1:60897] ValueError: mode string must begin with one of 'r', 'w', 'a' or 'U', not 'x'
+[Mon Jun 20 17:51:12.266128 2016] [:error] [pid 25269:tid 140530086979328] [client 127.0.0.1:60898] mod_wsgi (pid=25269): Exception occurred processing WSGI script '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Mon Jun 20 17:51:12.266226 2016] [:error] [pid 25269:tid 140530086979328] [client 127.0.0.1:60898] Traceback (most recent call last):
+[Mon Jun 20 17:51:12.266259 2016] [:error] [pid 25269:tid 140530086979328] [client 127.0.0.1:60898]   File "/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py", line 5, in application
+[Mon Jun 20 17:51:12.266348 2016] [:error] [pid 25269:tid 140530086979328] [client 127.0.0.1:60898]     file = open("www/index.html","x")
+[Mon Jun 20 17:51:12.266380 2016] [:error] [pid 25269:tid 140530086979328] [client 127.0.0.1:60898] ValueError: mode string must begin with one of 'r', 'w', 'a' or 'U', not 'x'
+[Sat Jun 25 21:18:23.789045 2016] [:error] [pid 4442:tid 140313419048704] [client 127.0.0.1:45287] mod_wsgi (pid=4442, process='', application='python-web|'): Failed to parse WSGI script file '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 21:18:23.819596 2016] [:error] [pid 4442:tid 140313419048704] [client 127.0.0.1:45287] mod_wsgi (pid=4442): Exception occurred processing WSGI script '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 21:18:23.819690 2016] [:error] [pid 4442:tid 140313419048704] [client 127.0.0.1:45287]   File "/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py", line 102
+[Sat Jun 25 21:18:23.819697 2016] [:error] [pid 4442:tid 140313419048704] [client 127.0.0.1:45287]     output = cadena_resultado_final
+[Sat Jun 25 21:18:23.819700 2016] [:error] [pid 4442:tid 140313419048704] [client 127.0.0.1:45287]                                   ^
+[Sat Jun 25 21:18:23.819703 2016] [:error] [pid 4442:tid 140313419048704] [client 127.0.0.1:45287] IndentationError: unindent does not match any outer indentation level
+[Sat Jun 25 21:18:23.878248 2016] [:error] [pid 4442:tid 140313427441408] [client 127.0.0.1:45288] mod_wsgi (pid=4442, process='', application='python-web|'): Failed to parse WSGI script file '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 21:18:23.878272 2016] [:error] [pid 4442:tid 140313427441408] [client 127.0.0.1:45288] mod_wsgi (pid=4442): Exception occurred processing WSGI script '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 21:18:23.878336 2016] [:error] [pid 4442:tid 140313427441408] [client 127.0.0.1:45288]   File "/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py", line 102
+[Sat Jun 25 21:18:23.878343 2016] [:error] [pid 4442:tid 140313427441408] [client 127.0.0.1:45288]     output = cadena_resultado_final
+[Sat Jun 25 21:18:23.878346 2016] [:error] [pid 4442:tid 140313427441408] [client 127.0.0.1:45288]                                   ^
+[Sat Jun 25 21:18:23.878349 2016] [:error] [pid 4442:tid 140313427441408] [client 127.0.0.1:45288] IndentationError: unindent does not match any outer indentation level
+[Sat Jun 25 21:18:23.889779 2016] [:error] [pid 4442:tid 140313410656000] [client 127.0.0.1:45289] mod_wsgi (pid=4442, process='', application='python-web|'): Failed to parse WSGI script file '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 21:18:23.889801 2016] [:error] [pid 4442:tid 140313410656000] [client 127.0.0.1:45289] mod_wsgi (pid=4442): Exception occurred processing WSGI script '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 21:18:23.889863 2016] [:error] [pid 4442:tid 140313410656000] [client 127.0.0.1:45289]   File "/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py", line 102
+[Sat Jun 25 21:18:23.889870 2016] [:error] [pid 4442:tid 140313410656000] [client 127.0.0.1:45289]     output = cadena_resultado_final
+[Sat Jun 25 21:18:23.889872 2016] [:error] [pid 4442:tid 140313410656000] [client 127.0.0.1:45289]                                   ^
+[Sat Jun 25 21:18:23.889875 2016] [:error] [pid 4442:tid 140313410656000] [client 127.0.0.1:45289] IndentationError: unindent does not match any outer indentation level
+[Sat Jun 25 21:19:38.837610 2016] [:error] [pid 4708:tid 140316457277184] [client 127.0.0.1:45292] mod_wsgi (pid=4708, process='', application='python-web|'): Failed to parse WSGI script file '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 21:19:38.837706 2016] [:error] [pid 4708:tid 140316457277184] [client 127.0.0.1:45292] mod_wsgi (pid=4708): Exception occurred processing WSGI script '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 21:19:38.837801 2016] [:error] [pid 4708:tid 140316457277184] [client 127.0.0.1:45292]   File "/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py", line 41
+[Sat Jun 25 21:19:38.837816 2016] [:error] [pid 4708:tid 140316457277184] [client 127.0.0.1:45292]     stat_datos = trato_texto.leertxtv1("stats.txt")
+[Sat Jun 25 21:19:38.837824 2016] [:error] [pid 4708:tid 140316457277184] [client 127.0.0.1:45292]     ^
+[Sat Jun 25 21:19:38.837831 2016] [:error] [pid 4708:tid 140316457277184] [client 127.0.0.1:45292] IndentationError: unexpected indent
+[Sat Jun 25 21:19:43.553946 2016] [:error] [pid 4708:tid 140316380231424] [client 127.0.0.1:45294] mod_wsgi (pid=4708, process='', application='python-web|'): Failed to parse WSGI script file '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 21:19:43.553974 2016] [:error] [pid 4708:tid 140316380231424] [client 127.0.0.1:45294] mod_wsgi (pid=4708): Exception occurred processing WSGI script '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 21:19:43.554038 2016] [:error] [pid 4708:tid 140316380231424] [client 127.0.0.1:45294]   File "/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py", line 41
+[Sat Jun 25 21:19:43.554044 2016] [:error] [pid 4708:tid 140316380231424] [client 127.0.0.1:45294]     stat_datos = trato_texto.leertxtv1("stats.txt")
+[Sat Jun 25 21:19:43.554047 2016] [:error] [pid 4708:tid 140316380231424] [client 127.0.0.1:45294]     ^
+[Sat Jun 25 21:19:43.554050 2016] [:error] [pid 4708:tid 140316380231424] [client 127.0.0.1:45294] IndentationError: unexpected indent
+[Sat Jun 25 21:20:35.553261 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298] mod_wsgi (pid=4816): Target WSGI script '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py' cannot be loaded as Python module.
+[Sat Jun 25 21:20:35.553288 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298] mod_wsgi (pid=4816): Exception occurred processing WSGI script '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 21:20:35.553303 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298] Traceback (most recent call last):
+[Sat Jun 25 21:20:35.553315 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298]   File "/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py", line 15, in <module>
+[Sat Jun 25 21:20:35.553357 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298]     from chatterbot import ChatBot
+[Sat Jun 25 21:20:35.553371 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298]   File "/usr/local/lib/python2.7/dist-packages/ChatterBot-0.4.1-py2.7.egg/chatterbot/__init__.py", line 7, in <module>
+[Sat Jun 25 21:20:35.578764 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298]     from .chatterbot import ChatBot
+[Sat Jun 25 21:20:35.578799 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298]   File "/usr/local/lib/python2.7/dist-packages/ChatterBot-0.4.1-py2.7.egg/chatterbot/chatterbot.py", line 1, in <module>
+[Sat Jun 25 21:20:35.579028 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298]     from .adapters.storage import StorageAdapter
+[Sat Jun 25 21:20:35.579038 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298]   File "/usr/local/lib/python2.7/dist-packages/ChatterBot-0.4.1-py2.7.egg/chatterbot/adapters/storage/__init__.py", line 3, in <module>
+[Sat Jun 25 21:20:35.589875 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298]     from .mongodb import MongoDatabaseAdapter
+[Sat Jun 25 21:20:35.589901 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298]   File "/usr/local/lib/python2.7/dist-packages/ChatterBot-0.4.1-py2.7.egg/chatterbot/adapters/storage/mongodb.py", line 3, in <module>
+[Sat Jun 25 21:20:35.594843 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298]     from pymongo import MongoClient
+[Sat Jun 25 21:20:35.594867 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298]   File "/usr/local/lib/python2.7/dist-packages/pymongo-3.2.2-py2.7-linux-x86_64.egg/pymongo/__init__.py", line 83, in <module>
+[Sat Jun 25 21:20:35.594907 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298]   File "/usr/local/lib/python2.7/dist-packages/pymongo-3.2.2-py2.7-linux-x86_64.egg/pymongo/collection.py", line 21, in <module>
+[Sat Jun 25 21:20:35.594921 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298]   File "/usr/local/lib/python2.7/dist-packages/pymongo-3.2.2-py2.7-linux-x86_64.egg/bson/__init__.py", line 57, in <module>
+[Sat Jun 25 21:20:35.594932 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298]   File "/usr/local/lib/python2.7/dist-packages/pymongo-3.2.2-py2.7-linux-x86_64.egg/bson/_cbson.py", line 7, in <module>
+[Sat Jun 25 21:20:35.594943 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298]   File "/usr/local/lib/python2.7/dist-packages/pymongo-3.2.2-py2.7-linux-x86_64.egg/bson/_cbson.py", line 4, in __bootstrap__
+[Sat Jun 25 21:20:35.594953 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298]   File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 936, in resource_filename
+[Sat Jun 25 21:20:35.606844 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298]     self, resource_name
+[Sat Jun 25 21:20:35.606874 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298]   File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 1567, in get_resource_filename
+[Sat Jun 25 21:20:35.606897 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298]     self._extract_resource(manager, self._eager_to_zip(name))
+[Sat Jun 25 21:20:35.606903 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298]   File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 1595, in _extract_resource
+[Sat Jun 25 21:20:35.606910 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298]     self.egg_name, self._parts(zip_path)
+[Sat Jun 25 21:20:35.606915 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298]   File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 1002, in get_cache_path
+[Sat Jun 25 21:20:35.606921 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298]     self.extraction_error()
+[Sat Jun 25 21:20:35.606925 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298]   File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 982, in extraction_error
+[Sat Jun 25 21:20:35.606938 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298]     raise err
+[Sat Jun 25 21:20:35.606955 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298] ExtractionError: Can't extract file(s) to egg cache
+[Sat Jun 25 21:20:35.606957 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298] 
+[Sat Jun 25 21:20:35.606959 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298] The following error occurred while trying to extract file(s) to the Python egg
+[Sat Jun 25 21:20:35.606961 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298] cache:
+[Sat Jun 25 21:20:35.606962 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298] 
+[Sat Jun 25 21:20:35.606964 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298]   [Errno 13] Permission denied: '/var/www/.python-eggs'
+[Sat Jun 25 21:20:35.606966 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298] 
+[Sat Jun 25 21:20:35.606967 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298] The Python egg cache directory is currently set to:
+[Sat Jun 25 21:20:35.606969 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298] 
+[Sat Jun 25 21:20:35.606971 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298]   /var/www/.python-eggs
+[Sat Jun 25 21:20:35.606972 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298] 
+[Sat Jun 25 21:20:35.606974 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298] Perhaps your account does not have write access to this directory?  You can
+[Sat Jun 25 21:20:35.606976 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298] change the cache directory by setting the PYTHON_EGG_CACHE environment
+[Sat Jun 25 21:20:35.606978 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298] variable to point to an accessible directory.
+[Sat Jun 25 21:20:35.606980 2016] [:error] [pid 4816:tid 139884143482624] [client 127.0.0.1:45298] 
+[Sat Jun 25 21:20:35.724464 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299] mod_wsgi (pid=4815): Target WSGI script '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py' cannot be loaded as Python module.
+[Sat Jun 25 21:20:35.724490 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299] mod_wsgi (pid=4815): Exception occurred processing WSGI script '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 21:20:35.724505 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299] Traceback (most recent call last):
+[Sat Jun 25 21:20:35.724517 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299]   File "/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py", line 15, in <module>
+[Sat Jun 25 21:20:35.724558 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299]     from chatterbot import ChatBot
+[Sat Jun 25 21:20:35.724566 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299]   File "/usr/local/lib/python2.7/dist-packages/ChatterBot-0.4.1-py2.7.egg/chatterbot/__init__.py", line 7, in <module>
+[Sat Jun 25 21:20:35.724592 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299]     from .chatterbot import ChatBot
+[Sat Jun 25 21:20:35.724598 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299]   File "/usr/local/lib/python2.7/dist-packages/ChatterBot-0.4.1-py2.7.egg/chatterbot/chatterbot.py", line 1, in <module>
+[Sat Jun 25 21:20:35.724643 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299]     from .adapters.storage import StorageAdapter
+[Sat Jun 25 21:20:35.724649 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299]   File "/usr/local/lib/python2.7/dist-packages/ChatterBot-0.4.1-py2.7.egg/chatterbot/adapters/storage/__init__.py", line 3, in <module>
+[Sat Jun 25 21:20:35.724686 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299]     from .mongodb import MongoDatabaseAdapter
+[Sat Jun 25 21:20:35.724701 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299]   File "/usr/local/lib/python2.7/dist-packages/ChatterBot-0.4.1-py2.7.egg/chatterbot/adapters/storage/mongodb.py", line 3, in <module>
+[Sat Jun 25 21:20:35.724755 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299]     from pymongo import MongoClient
+[Sat Jun 25 21:20:35.724761 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299]   File "/usr/local/lib/python2.7/dist-packages/pymongo-3.2.2-py2.7-linux-x86_64.egg/pymongo/__init__.py", line 83, in <module>
+[Sat Jun 25 21:20:35.724777 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299]   File "/usr/local/lib/python2.7/dist-packages/pymongo-3.2.2-py2.7-linux-x86_64.egg/pymongo/collection.py", line 21, in <module>
+[Sat Jun 25 21:20:35.724789 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299]   File "/usr/local/lib/python2.7/dist-packages/pymongo-3.2.2-py2.7-linux-x86_64.egg/bson/__init__.py", line 57, in <module>
+[Sat Jun 25 21:20:35.724799 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299]   File "/usr/local/lib/python2.7/dist-packages/pymongo-3.2.2-py2.7-linux-x86_64.egg/bson/_cbson.py", line 7, in <module>
+[Sat Jun 25 21:20:35.724809 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299]   File "/usr/local/lib/python2.7/dist-packages/pymongo-3.2.2-py2.7-linux-x86_64.egg/bson/_cbson.py", line 4, in __bootstrap__
+[Sat Jun 25 21:20:35.724818 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299]   File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 936, in resource_filename
+[Sat Jun 25 21:20:35.725204 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299]     self, resource_name
+[Sat Jun 25 21:20:35.725211 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299]   File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 1567, in get_resource_filename
+[Sat Jun 25 21:20:35.725220 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299]     self._extract_resource(manager, self._eager_to_zip(name))
+[Sat Jun 25 21:20:35.725225 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299]   File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 1595, in _extract_resource
+[Sat Jun 25 21:20:35.725231 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299]     self.egg_name, self._parts(zip_path)
+[Sat Jun 25 21:20:35.725235 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299]   File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 1002, in get_cache_path
+[Sat Jun 25 21:20:35.725241 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299]     self.extraction_error()
+[Sat Jun 25 21:20:35.725245 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299]   File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 982, in extraction_error
+[Sat Jun 25 21:20:35.725251 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299]     raise err
+[Sat Jun 25 21:20:35.725261 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299] ExtractionError: Can't extract file(s) to egg cache
+[Sat Jun 25 21:20:35.725264 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299] 
+[Sat Jun 25 21:20:35.725265 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299] The following error occurred while trying to extract file(s) to the Python egg
+[Sat Jun 25 21:20:35.725267 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299] cache:
+[Sat Jun 25 21:20:35.725269 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299] 
+[Sat Jun 25 21:20:35.725271 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299]   [Errno 13] Permission denied: '/var/www/.python-eggs'
+[Sat Jun 25 21:20:35.725272 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299] 
+[Sat Jun 25 21:20:35.725274 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299] The Python egg cache directory is currently set to:
+[Sat Jun 25 21:20:35.725279 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299] 
+[Sat Jun 25 21:20:35.725281 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299]   /var/www/.python-eggs
+[Sat Jun 25 21:20:35.725283 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299] 
+[Sat Jun 25 21:20:35.725284 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299] Perhaps your account does not have write access to this directory?  You can
+[Sat Jun 25 21:20:35.725286 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299] change the cache directory by setting the PYTHON_EGG_CACHE environment
+[Sat Jun 25 21:20:35.725288 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299] variable to point to an accessible directory.
+[Sat Jun 25 21:20:35.725290 2016] [:error] [pid 4815:tid 139884143482624] [client 127.0.0.1:45299] 
+[Sat Jun 25 21:20:35.742335 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300] mod_wsgi (pid=4816): Target WSGI script '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py' cannot be loaded as Python module.
+[Sat Jun 25 21:20:35.742359 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300] mod_wsgi (pid=4816): Exception occurred processing WSGI script '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 21:20:35.742372 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300] Traceback (most recent call last):
+[Sat Jun 25 21:20:35.742383 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300]   File "/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py", line 15, in <module>
+[Sat Jun 25 21:20:35.742401 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300]     from chatterbot import ChatBot
+[Sat Jun 25 21:20:35.742406 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300]   File "/usr/local/lib/python2.7/dist-packages/ChatterBot-0.4.1-py2.7.egg/chatterbot/__init__.py", line 7, in <module>
+[Sat Jun 25 21:20:35.742415 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300]     from .chatterbot import ChatBot
+[Sat Jun 25 21:20:35.742419 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300]   File "/usr/local/lib/python2.7/dist-packages/ChatterBot-0.4.1-py2.7.egg/chatterbot/chatterbot.py", line 1, in <module>
+[Sat Jun 25 21:20:35.742426 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300]     from .adapters.storage import StorageAdapter
+[Sat Jun 25 21:20:35.742431 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300]   File "/usr/local/lib/python2.7/dist-packages/ChatterBot-0.4.1-py2.7.egg/chatterbot/adapters/storage/__init__.py", line 3, in <module>
+[Sat Jun 25 21:20:35.742438 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300]     from .mongodb import MongoDatabaseAdapter
+[Sat Jun 25 21:20:35.742442 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300]   File "/usr/local/lib/python2.7/dist-packages/ChatterBot-0.4.1-py2.7.egg/chatterbot/adapters/storage/mongodb.py", line 3, in <module>
+[Sat Jun 25 21:20:35.742448 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300]     from pymongo import MongoClient
+[Sat Jun 25 21:20:35.742452 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300]   File "/usr/local/lib/python2.7/dist-packages/pymongo-3.2.2-py2.7-linux-x86_64.egg/pymongo/__init__.py", line 83, in <module>
+[Sat Jun 25 21:20:35.742468 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300]   File "/usr/local/lib/python2.7/dist-packages/pymongo-3.2.2-py2.7-linux-x86_64.egg/pymongo/collection.py", line 21, in <module>
+[Sat Jun 25 21:20:35.742479 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300]   File "/usr/local/lib/python2.7/dist-packages/pymongo-3.2.2-py2.7-linux-x86_64.egg/bson/__init__.py", line 57, in <module>
+[Sat Jun 25 21:20:35.742489 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300]   File "/usr/local/lib/python2.7/dist-packages/pymongo-3.2.2-py2.7-linux-x86_64.egg/bson/_cbson.py", line 7, in <module>
+[Sat Jun 25 21:20:35.742507 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300]   File "/usr/local/lib/python2.7/dist-packages/pymongo-3.2.2-py2.7-linux-x86_64.egg/bson/_cbson.py", line 4, in __bootstrap__
+[Sat Jun 25 21:20:35.742517 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300]   File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 936, in resource_filename
+[Sat Jun 25 21:20:35.742526 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300]     self, resource_name
+[Sat Jun 25 21:20:35.742530 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300]   File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 1567, in get_resource_filename
+[Sat Jun 25 21:20:35.742536 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300]     self._extract_resource(manager, self._eager_to_zip(name))
+[Sat Jun 25 21:20:35.742540 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300]   File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 1595, in _extract_resource
+[Sat Jun 25 21:20:35.742546 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300]     self.egg_name, self._parts(zip_path)
+[Sat Jun 25 21:20:35.742550 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300]   File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 1002, in get_cache_path
+[Sat Jun 25 21:20:35.742556 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300]     self.extraction_error()
+[Sat Jun 25 21:20:35.742559 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300]   File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 982, in extraction_error
+[Sat Jun 25 21:20:35.742565 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300]     raise err
+[Sat Jun 25 21:20:35.742576 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300] ExtractionError: Can't extract file(s) to egg cache
+[Sat Jun 25 21:20:35.742578 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300] 
+[Sat Jun 25 21:20:35.742579 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300] The following error occurred while trying to extract file(s) to the Python egg
+[Sat Jun 25 21:20:35.742581 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300] cache:
+[Sat Jun 25 21:20:35.742583 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300] 
+[Sat Jun 25 21:20:35.742585 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300]   [Errno 13] Permission denied: '/var/www/.python-eggs'
+[Sat Jun 25 21:20:35.742586 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300] 
+[Sat Jun 25 21:20:35.742588 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300] The Python egg cache directory is currently set to:
+[Sat Jun 25 21:20:35.742590 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300] 
+[Sat Jun 25 21:20:35.742591 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300]   /var/www/.python-eggs
+[Sat Jun 25 21:20:35.742593 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300] 
+[Sat Jun 25 21:20:35.742595 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300] Perhaps your account does not have write access to this directory?  You can
+[Sat Jun 25 21:20:35.742597 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300] change the cache directory by setting the PYTHON_EGG_CACHE environment
+[Sat Jun 25 21:20:35.742598 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300] variable to point to an accessible directory.
+[Sat Jun 25 21:20:35.742600 2016] [:error] [pid 4816:tid 139884064929536] [client 127.0.0.1:45300] 
+[Sat Jun 25 22:30:55.178211 2016] [:error] [pid 5788:tid 139727412397824] [client 127.0.0.1:46116] mod_wsgi (pid=5788, process='', application='python-web|'): Failed to parse WSGI script file '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 22:30:55.178264 2016] [:error] [pid 5788:tid 139727412397824] [client 127.0.0.1:46116] mod_wsgi (pid=5788): Exception occurred processing WSGI script '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 22:30:55.178308 2016] [:error] [pid 5788:tid 139727412397824] [client 127.0.0.1:46116]   File "/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py", line 6
+[Sat Jun 25 22:30:55.178313 2016] [:error] [pid 5788:tid 139727412397824] [client 127.0.0.1:46116]     array[]
+[Sat Jun 25 22:30:55.178316 2016] [:error] [pid 5788:tid 139727412397824] [client 127.0.0.1:46116]           ^
+[Sat Jun 25 22:30:55.178318 2016] [:error] [pid 5788:tid 139727412397824] [client 127.0.0.1:46116] SyntaxError: invalid syntax
+[Sat Jun 25 22:30:55.207007 2016] [:error] [pid 5788:tid 139727239874304] [client 127.0.0.1:46117] mod_wsgi (pid=5788, process='', application='python-web|'): Failed to parse WSGI script file '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 22:30:55.207036 2016] [:error] [pid 5788:tid 139727239874304] [client 127.0.0.1:46117] mod_wsgi (pid=5788): Exception occurred processing WSGI script '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 22:30:55.207119 2016] [:error] [pid 5788:tid 139727239874304] [client 127.0.0.1:46117]   File "/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py", line 6
+[Sat Jun 25 22:30:55.207132 2016] [:error] [pid 5788:tid 139727239874304] [client 127.0.0.1:46117]     array[]
+[Sat Jun 25 22:30:55.207136 2016] [:error] [pid 5788:tid 139727239874304] [client 127.0.0.1:46117]           ^
+[Sat Jun 25 22:30:55.207140 2016] [:error] [pid 5788:tid 139727239874304] [client 127.0.0.1:46117] SyntaxError: invalid syntax
+[Sat Jun 25 22:30:55.217587 2016] [:error] [pid 5788:tid 139727281837824] [client 127.0.0.1:46118] mod_wsgi (pid=5788, process='', application='python-web|'): Failed to parse WSGI script file '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 22:30:55.217612 2016] [:error] [pid 5788:tid 139727281837824] [client 127.0.0.1:46118] mod_wsgi (pid=5788): Exception occurred processing WSGI script '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 22:30:55.217675 2016] [:error] [pid 5788:tid 139727281837824] [client 127.0.0.1:46118]   File "/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py", line 6
+[Sat Jun 25 22:30:55.217681 2016] [:error] [pid 5788:tid 139727281837824] [client 127.0.0.1:46118]     array[]
+[Sat Jun 25 22:30:55.217684 2016] [:error] [pid 5788:tid 139727281837824] [client 127.0.0.1:46118]           ^
+[Sat Jun 25 22:30:55.217687 2016] [:error] [pid 5788:tid 139727281837824] [client 127.0.0.1:46118] SyntaxError: invalid syntax
+[Sat Jun 25 22:30:59.350937 2016] [:error] [pid 5789:tid 139727412397824] [client 127.0.0.1:46119] mod_wsgi (pid=5789, process='', application='python-web|'): Failed to parse WSGI script file '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 22:30:59.350984 2016] [:error] [pid 5789:tid 139727412397824] [client 127.0.0.1:46119] mod_wsgi (pid=5789): Exception occurred processing WSGI script '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 22:30:59.351024 2016] [:error] [pid 5789:tid 139727412397824] [client 127.0.0.1:46119]   File "/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py", line 6
+[Sat Jun 25 22:30:59.351029 2016] [:error] [pid 5789:tid 139727412397824] [client 127.0.0.1:46119]     array[]
+[Sat Jun 25 22:30:59.351031 2016] [:error] [pid 5789:tid 139727412397824] [client 127.0.0.1:46119]           ^
+[Sat Jun 25 22:30:59.351033 2016] [:error] [pid 5789:tid 139727412397824] [client 127.0.0.1:46119] SyntaxError: invalid syntax
+[Sat Jun 25 22:31:08.991755 2016] [:error] [pid 5789:tid 139727404005120] [client 127.0.0.1:46122] mod_wsgi (pid=5789, process='', application='python-web|'): Failed to parse WSGI script file '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 22:31:08.991798 2016] [:error] [pid 5789:tid 139727404005120] [client 127.0.0.1:46122] mod_wsgi (pid=5789): Exception occurred processing WSGI script '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 22:31:08.991877 2016] [:error] [pid 5789:tid 139727404005120] [client 127.0.0.1:46122]   File "/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py", line 6
+[Sat Jun 25 22:31:08.991887 2016] [:error] [pid 5789:tid 139727404005120] [client 127.0.0.1:46122]     array[]
+[Sat Jun 25 22:31:08.991892 2016] [:error] [pid 5789:tid 139727404005120] [client 127.0.0.1:46122]           ^
+[Sat Jun 25 22:31:08.991896 2016] [:error] [pid 5789:tid 139727404005120] [client 127.0.0.1:46122] SyntaxError: invalid syntax
+[Sat Jun 25 22:31:33.630676 2016] [:error] [pid 5789:tid 139727395612416] [client 127.0.0.1:46123] mod_wsgi (pid=5789, process='', application='python-web|'): Failed to parse WSGI script file '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 22:31:33.630727 2016] [:error] [pid 5789:tid 139727395612416] [client 127.0.0.1:46123] mod_wsgi (pid=5789): Exception occurred processing WSGI script '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 22:31:33.630855 2016] [:error] [pid 5789:tid 139727395612416] [client 127.0.0.1:46123]   File "/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py", line 6
+[Sat Jun 25 22:31:33.630877 2016] [:error] [pid 5789:tid 139727395612416] [client 127.0.0.1:46123]     array[]
+[Sat Jun 25 22:31:33.630886 2016] [:error] [pid 5789:tid 139727395612416] [client 127.0.0.1:46123]           ^
+[Sat Jun 25 22:31:33.630894 2016] [:error] [pid 5789:tid 139727395612416] [client 127.0.0.1:46123] SyntaxError: invalid syntax
+[Sat Jun 25 22:38:05.568110 2016] [:error] [pid 6163:tid 139623028786944] [client 127.0.0.1:46137] mod_wsgi (pid=6163, process='', application='python-web|'): Failed to parse WSGI script file '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 22:38:05.568156 2016] [:error] [pid 6163:tid 139623028786944] [client 127.0.0.1:46137] mod_wsgi (pid=6163): Exception occurred processing WSGI script '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 22:38:05.568200 2016] [:error] [pid 6163:tid 139623028786944] [client 127.0.0.1:46137]   File "/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py", line 6
+[Sat Jun 25 22:38:05.568205 2016] [:error] [pid 6163:tid 139623028786944] [client 127.0.0.1:46137]     array[]
+[Sat Jun 25 22:38:05.568208 2016] [:error] [pid 6163:tid 139623028786944] [client 127.0.0.1:46137]           ^
+[Sat Jun 25 22:38:05.568211 2016] [:error] [pid 6163:tid 139623028786944] [client 127.0.0.1:46137] SyntaxError: invalid syntax
+[Sat Jun 25 22:38:06.584003 2016] [:error] [pid 6163:tid 139623020394240] [client 127.0.0.1:46138] mod_wsgi (pid=6163, process='', application='python-web|'): Failed to parse WSGI script file '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 22:38:06.584029 2016] [:error] [pid 6163:tid 139623020394240] [client 127.0.0.1:46138] mod_wsgi (pid=6163): Exception occurred processing WSGI script '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 22:38:06.584093 2016] [:error] [pid 6163:tid 139623020394240] [client 127.0.0.1:46138]   File "/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py", line 6
+[Sat Jun 25 22:38:06.584100 2016] [:error] [pid 6163:tid 139623020394240] [client 127.0.0.1:46138]     array[]
+[Sat Jun 25 22:38:06.584103 2016] [:error] [pid 6163:tid 139623020394240] [client 127.0.0.1:46138]           ^
+[Sat Jun 25 22:38:06.584106 2016] [:error] [pid 6163:tid 139623020394240] [client 127.0.0.1:46138] SyntaxError: invalid syntax
+[Sat Jun 25 23:03:39.187104 2016] [:error] [pid 6457:tid 140693111543552] [client 127.0.0.1:46170] mod_wsgi (pid=6457, process='', application='python-web|'): Failed to parse WSGI script file '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 23:03:39.187198 2016] [:error] [pid 6457:tid 140693111543552] [client 127.0.0.1:46170] mod_wsgi (pid=6457): Exception occurred processing WSGI script '/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py'.
+[Sat Jun 25 23:03:39.187276 2016] [:error] [pid 6457:tid 140693111543552] [client 127.0.0.1:46170]   File "/home/ramses/Escritorio/DIY/Igor_AI-0.2.0/app/controller.py", line 25
+[Sat Jun 25 23:03:39.187286 2016] [:error] [pid 6457:tid 140693111543552] [client 127.0.0.1:46170]     peticion = environ['REQUEST_URI']
+[Sat Jun 25 23:03:39.187291 2016] [:error] [pid 6457:tid 140693111543552] [client 127.0.0.1:46170]                                      ^
+[Sat Jun 25 23:03:39.187296 2016] [:error] [pid 6457:tid 140693111543552] [client 127.0.0.1:46170] IndentationError: unindent does not match any outer indentation level
